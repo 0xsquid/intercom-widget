@@ -95,3 +95,12 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+
+#open-chat-btn {
+  position: absolute;
+  bottom: 1rem;
+  left: 1rem;
+  z-index: 999;
+  background-color: #b590df;
+  color: #000;
+}
