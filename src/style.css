@@ -29,6 +29,7 @@ body {
   place-items: center;
   min-width: 320px;
   min-height: 100vh;
+  background-color: #b590df;
 }
 
 h1 {
@@ -101,6 +102,6 @@ button:focus-visible {
   bottom: 1rem;
   left: 1rem;
   z-index: 999;
-  background-color: #b590df;
-  color: #000;
+  background-color: #000;
+  color: #bbb;
 }
